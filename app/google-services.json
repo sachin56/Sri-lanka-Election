@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388770950349",
+    "project_id": "voteapp-2c9b0",
+    "storage_bucket": "voteapp-2c9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388770950349:android:279991b54397fdb3410d84",
+        "android_client_info": {
+          "package_name": "com.example.voteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388770950349-da16sdqloieev0do28r0gl7ojurmjqlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wV3QY7odORL4bJfpNPczm6gryLa3A2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388770950349-da16sdqloieev0do28r0gl7ojurmjqlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
